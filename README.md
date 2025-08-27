@@ -266,3 +266,114 @@ zK. Deckungszusage außergerichtlich und für selbst.pdf — Deckungszusage (z.�
 
 - [Absage Zriny im April](verfahren/Absage%20Zriny%20im%20April.pdf)  
   > Absage Zriny (April)
+
+
+# Masterversion – Chronologischer Sachverhalt 2016–2025
+
+---
+
+## [[2016-2021_Vorgeschichte]]
+
+2016: Mängelgutachten Dr. Glogger (2 Kronen erneuerungsbedürftig, Umsetzung blieb aus).  
+2020: HKP Dr. Hagspiel (ohne Einverständnis beantragt, gestoppt).  
+2021: HKP Dr. Waller (genehmigt, nicht umgesetzt).  
+2021: Dr. Randelzhofer – Diagnose CMD, Funktionsanalyse empfohlen (nicht umgesetzt).  
+2022: Elisenhof Zahnärzte (Planung 33.000 €, Vorauszahlung 22.000 €, Abbruch).  
+
+---
+
+## [[2022_Nessler_Beginn]]
+
+22.07.2022: Erstvorstellung Dr. Nessler (Empfehlung Dr. Hertler).  
+September 2022: Scan Niklas Nessler für Implantatkronenversorgung.  
+Winter 2022: HKP Nessler (ursprünglich ohne Bisshebung, nach Nachfrage korrigiert, bei KK eingereicht).  
+
+---
+
+## [[2023_HKP_Genehmigungsfiktion]]
+
+07.–16.01.2023: HKP über Vollüberkronung (25.550 €).  
+Februar 2023: MDK-Gutachten – nur 2 Zähne behandlungsbedürftig (Widerspruch zu früheren HKPs).  
+06.–10.03.2023: Genehmigungsfiktion (Nessler informiert, RA Gerloff bestätigt, Klage gegen KK).  
+
+### Behandlung 2023
+28.04.2023: Beginn Behandlung – Kronenabnahme, Bindegewebstransplantat (5.000 € privat).  
+23.08.2023: Präparation Ober-/Unterkiefer.  
+11./22.09.2023: Gerüstproben.  
+27.09.2023: Definitive Kronen eingesetzt (Fehlkontakte, Beschwerden).  
+29.09.2023: Rechnung DZR (29.582 €, unter Vorbehalt bezahlt).  
+
+### Nachbehandler 2023
+21.10.2023: AllDent – Störkontakte.  
+25.10.2023: Dr. Achim Schmidt – Versorgung „unbrauchbar“.  
+04.12.2023: Dr. Eschrich – CMD, Schienentherapie.  
+11.12.2023: Dr. Hansen – Neuversorgung empfohlen.  
+12.12.2023: Dr. Hertler – Fehlbiss, Botox, Schienen.  
+12.2023: Nass-Kolb (Physio) – massive funktionelle Einschränkungen.  
+
+---
+
+## [[2024_SBV_Beschlüsse_1_2]]
+
+05.01.2024: Mandatierung RAin Schmidt (Freihoefer) zur Einleitung SBV.  
+04.02.2024: Verschluckte Krone (Notaufnahme, CT/MRT, Schmerzen).  
+27.03.2024: Deckungsanfrage RS (34 Seiten, Streitwert 80.870 €).  
+04.04.2024: Antwort ERGO (Kostenübernahme).  
+16.04.2024: Klarstellung, Fristverlängerung.  
+19.04.2024: Antrag SBV beim LG Stuttgart (Rückzahlung, Schmerzensgeld, Gutachten München).  
+
+### Gerichtliche Beschlüsse 2024
+09.09.2024: Beschluss Nr. 1 – Bestellung SV Geisler.  
+- Geisler meldet Mehrkosten/Zeit, du bietest Kostenübernahme an.  
+- Gericht reagiert nicht, Beschluss aufgehoben.  
+
+05.12.2024: Beschluss Nr. 2 – Bestellung SV Ciorini.  
+- Absage wegen Schicksalsschlag.  
+- Gericht untätig, Stillstand bis März 2025.  
+
+---
+
+## [[2025_Beschlüsse_3_4_Anwälte]]
+
+17.03.2025: Beschluss Nr. 3 – Bestellung Dr. Tobias (Befangenheit gemeldet, aufgehoben).  
+Sommer 2025: Beschluss Nr. 4 – erneute Bestellung Geisler (Widerspruch verweigert, aufgehoben).  
+
+### Anwälte 2025
+Frühjahr 2025: Mandat RA Adam Ahmed (Strafanzeigen KV & Betrug, Vorschuss 2.500 €, keine Umsetzung).  
+
+### Weitere Ereignisse
+04.08.2025: ZBFS-Bescheid – GdB 50 rückwirkend ab 28.02.2025.  
+
+---
+
+# Cluster-Verweise
+
+- [[Cluster_Ärzte_Befunde]] → alle Behandler, Nachbehandler, Atteste  
+- [[Cluster_Anwälte_Mandate]] → Gerloff, Schmidt, Reindl, Westhagen, Adam Ahmed  
+- [[Cluster_Gerichtsbeschlüsse]] → Geisler, Ciorini, Tobias, erneute Geisler  
+- [[Cluster_MDK_Krankenkasse]] → MDK-Gutachten, Krankenkassenreaktionen  
+- [[Cluster_Finanzielle_Folgen]] → Rechnungen, Kosten, Rechtsschutz  
+
+---
+
+# Folgen (Gesamt)
+
+**Finanziell:**  
+- Nessler 29.582 € (unter Vorbehalt gezahlt).  
+- Transplantat 5.000 € privat.  
+- Streitwert SBV 80.870 €.  
+- Diverse Zusatzkosten (Schienen, Atteste, Fahrten).  
+
+**Gesundheitlich:**  
+- Verschluckte Krone → Dauerschmerzen, OP notwendig.  
+- Fehlbiss, CMD, funktionelle Einschränkungen.  
+- Psychische Belastung, psychiatrische/psychotherapeutische Begleitung.  
+
+**Juristisch:**  
+- SBV durch Gericht mehrfach blockiert.  
+- RA Gerloff: Klage KK, Niederlegung Mandat.  
+- RAin Schmidt: Fristverlängerungen, fehlende Strategie.  
+- RA Reindl: inaktiv.  
+- RA Westhagen: Betreuer untätig.  
+- RA Adam Ahmed: Strafanzeigen nicht umgesetzt.  
+- Befangenheit Richter Benner.  
