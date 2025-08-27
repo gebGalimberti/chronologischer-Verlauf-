@@ -11,8 +11,18 @@
 
 ## ⚖️ Gerichtliche Vorgänge 2024
 
-| Datum              | Gericht / Beteiligte      | Dokument / Titel | Kurzinhalt / Relevanz |
-|--------------------|---------------------------|------------------|-----------------------|
-| **03.2024**        | Landgericht Stuttgart     | [Beschluss 001](schreiben/beschluss_2024_001.pdf) | Mitteilung / Terminankündigung für Gutachter. |
-| **06.2024**        | Landgericht Stuttgart     | [Beschluss 002](schreiben/beschluss_2024_002.pdf) | Fristverlängerung / Verfahrensverschleppung dokumentiert. |
-| **10.2024**        | Landgericht Stuttgart     | [Beschluss 003](schreiben/beschluss_2024_003.pdf) | Verfügung: erneute Terminabsage / neuer Gutachter angekündigt. |
+### 2024 – Landgericht Stuttgart, Az. 716 XVII 610/23
+
+- **[TT.MM.2024] – Beschluss**  
+  → **Beteiligte:** Klägerin: Silke Schürmann – Beklagter: Dr. Thomas Nessler  
+  → **Kernaussage:** [z. B. „Fristverlängerung für Beklagtenseite“]  
+  → **Begründung:** [z. B. „Dem Antrag der Beklagtenseite wird entsprochen“]  
+  → **Zitat aus Beschluss:** „[…]“  
+  → **Relevanz:** [z. B. Gericht verzögert erneut das Verfahren]  
+
+- **[TT.MM.2024] – Verfügung**  
+  → **Beteiligte:** Klägerin: Silke Schürmann – Beklagter: Dr. Thomas Nessler  
+  → **Kernaussage:** [z. B. „Gutachterwechsel“]  
+  → **Begründung:** [z. B. „Bisheriger Gutachter legt Mandat nieder“]  
+  → **Zitat aus Verfügung:** „[…]“  
+  → **Relevanz:** [z. B. erneute Verzögerung, kein Fortgang]  
