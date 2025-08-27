@@ -9,3 +9,13 @@
 | 2023 | Übersendungsschreiben | Kanzlei | Gericht | Übersendung von Unterlagen an das Gericht | [PDF](../verfahren/10004018210_1_Übersendungsschreiben.pdf) |
 | 2023 | Verfügung: FV gewährt & Info zu angefragten SVs | Gericht | Parteien | Verfügung – Fristverlängerung (FV) gewährt, Informationen zu angefragten Sachverständigen | [PDF](../verfahren/10004018213_1_Verfügung%20FV%20gewährt%20und%20Info%20angefragte%20SVs.pdf) |
 | 2023 | Auftragserteilung an SV Dr. Geisler | Gericht | Dr. Anja Geisler (SV) | Offizielle Auftragserteilung an die Sachverständige | [PDF](../verfahren/10004093154_1_Auftragserteilung%20an%20SV%20Dr.%20Geisler.pdf) |
+# 📄 Chronologie 2023 (Liste)
+
+> Übersicht aller erfassten Vorgänge im Jahr 2023 – sortiert nach Datum.  
+> **Hinweis:** Die Links sind relativ von /notizen/ – d. h. sie zeigen eine Ebene nach oben (`../`).  
+
+---
+
+## Januar 2023
+
+- **07.–16.01.2023 – HKP über Vollüberkronung**
