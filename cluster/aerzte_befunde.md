@@ -106,3 +106,79 @@
   - Iatrogene Zahnlängenänderungen — [Iatrogene_Zahnlaengenaenderungen_2.pdf](../Iatrogene_Zahnlaengenaenderungen_2.pdf)  
   - KZBV Broschüre Gutachterwesen (2018) — [KZBV2018_Broschuere_Gutachterwesen.pdf](../KZBV2018_Broschuere_Gutachterwesen.pdf)
 
+# 🩺 Ärzte, Befunde & Atteste
+
+> Sammlung medizinischer Unterlagen: Arztbriefe, Atteste, Bildgebung (MRT, CT, Röntgen), Physio-Berichte und Klinikberichte.  
+> **Hinweis:** Die Links sind relativ von /cluster/ – d. h. sie zeigen eine Ebene nach oben (`../`).  
+
+---
+
+## 2025
+
+- **11.08.2025 – Arztbrief Decker-Klinik**  
+  [20250811_Arztbrief Deckerklink.pdf](../20250811_Arztbrief%20Deckerklink.pdf)
+
+- **Physiotherapie**  
+  - [Physio Bericht Juni 2025.pdf](../Physio%20Bericht%20Juni%202025.pdf)  
+
+- **Atteste / Berichte**  
+  - [Attest Einschränkung organisatorische und rechtliche Korrespondenz.pdf](../Attest%20Einschr%C3%A4nkung%20organisatorische%20und%20rechtliche%20Korrespondenz.pdf)  
+  - [Attest Dr. von Heinemann_Betreuung.pdf](../Attest%20Dr.%20von%20Heinemann_Betreuung.pdf)  
+  - [Bericht Dr. v.Heinemann für FTZ Betreuung_Kieferfehlstellung.pdf](../Bericht%20Dr.%20v.Heinemann%20f%C3%BCr%20FTZ%20Betreuung_Kieferfehlstellung.pdf)  
+  - [Therapiebericht_Prokhorenko.pdf](../Therapiebericht_Prokhorenko.pdf)  
+  - [Prokhorenko_summary.pdf](../Prokhorenko_summary.pdf)
+
+- **Überweisungen**  
+  - [Überweisung MRT Kiefer_Prokhorenko.PDF](../%C3%9Cberweisung%20MRT%20Kiefer_Prokhorenko.PDF)  
+  - [Überweisung_MRT2025_01_27_6860.pdf](../%C3%9Cberweisung_MRT2025_01_27_6860.pdf)  
+  - [Überweisung Zahnklinik Eschrich.jpg](../%C3%9Cberweisung%20Zahnklinik%20Eschrich.jpg)  
+  - [Überweisung psychosomatische ambulanz (2).PDF](../%C3%9Cberweisung%20psychosomatische%20ambulanz%20(2).PDF)  
+
+- **Arbeitsunfähigkeiten**  
+  - [Arbeitsunfähigkeit 7.1.bis 4.2.2025.PDF](../Arbeitsunf%C3%A4higkeit%207.1.bis%204.2.2025.PDF)  
+  - [Arbeitsunfähigkeit 7.1.bis 4.2.2025 (2).PDF](../Arbeitsunf%C3%A4higkeit%207.1.bis%204.2.2025%20(2).PDF)  
+
+---
+
+## 2024
+
+- **Radiologie / Bildgebung**  
+  - [Schurmann_Silke_Abdomen_MRT_03.04.2024 (2).pdf](../Schurmann_Silke_Abdomen_MRT_03.04.2024%20(2).pdf)  
+  - [Schurmann_Silke_Abdomen_MRT_04.04.2024 (1).pdf](../Schurmann_Silke_Abdomen_MRT_04.04.2024%20(1).pdf)  
+  - [Schurmann_Silke_CT_Bauch_(Abdomen)_14.05.2024.pdf](../Schurmann_Silke_CT_Bauch_(Abdomen)_14.05.2024.pdf)  
+  - [Schurmann_Silke_Rontgen_Allgemein_04.11.2024.pdf](../Schurmann_Silke_Rontgen_Allgemein_04.11.2024.pdf)  
+  - [Schurmann_Silke_Rontgen_Allgemein_04.11.2024 (2).pdf](../Schurmann_Silke_Rontgen_Allgemein_04.11.2024%20(2).pdf)
+
+- **Atteste / Befunde**  
+  - [Fachärztliches Attest .pdf](../Fach%C3%A4rztliches%20Attest%20.pdf)  
+  - [Fachärztliches Attest (2).pdf](../Fach%C3%A4rztliches%20Attest%20(2).pdf)  
+  - [Attest Federa.pdf](../Attest%20Federa.pdf)  
+  - [Attest Federa (2).pdf](../Attest%20Federa%20(2).pdf)  
+  - [IMG_20240408_0001.pdf](../IMG_20240408_0001.pdf)  
+  - [IMG_20240408_0001 (2).pdf](../IMG_20240408_0001%20(2).pdf)  
+  - [federa1.pdf](../federa1.pdf)  
+  - [federa1 (2).pdf](../federa1%20(2).pdf)  
+  - [Federa2.pdf](../Federa2.pdf)  
+  - [Federa_attest seite1.pdf](../Federa_attest%20seite1.pdf)  
+  - [Federa_attest seite2.pdf](../Federa_attest%20seite2.pdf)
+
+- **CMD / Kieferdiagnostik**  
+  - [6860 Schürmann Silke CMD Diagnostik-Report 2024-03-04.pdf](../6860%20Sch%C3%BCrmann%20Silke%20CMD%20Diagnostik-Report%202024-03-04.pdf)  
+  - [Befund MRT Kiefer.pdf](../Befund%20MRT%20Kiefer.pdf)  
+  - [Zahnklinik unterschriebene Vereinbarung Kieferfunktionsanalyse.pdf](../Zahnklinik%20unterschriebene%20Vereinbarung%20Kieferfunktionsanalyse.pdf)
+
+---
+
+## 2023
+
+- **Atteste / AU**  
+  - [AU 31.10.23.pdf](../AU%2031.10.23.pdf)
+
+---
+
+## 2022
+
+- **BHU Dr. Randelzhofer**  
+  - [BHU Dr. Randelzhofer.pdf](../BHU%20Dr.%20Randelzhofer.pdf)  
+  - [BHU Dr. Randelzhofer (2).pdf](../BHU%20Dr.%20Randelzhofer%20(2).pdf)  
+  - [10002212168_1_BHU.pdf](../10002212168_1_BHU.pdf)
