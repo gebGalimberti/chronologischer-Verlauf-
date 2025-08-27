@@ -377,3 +377,16 @@ Frühjahr 2025: Mandat RA Adam Ahmed (Strafanzeigen KV & Betrug, Vorschuss 2.500
 - RA Westhagen: Betreuer untätig.  
 - RA Adam Ahmed: Strafanzeigen nicht umgesetzt.  
 - Befangenheit Richter Benner.  
+# 📑 Inhaltsverzeichnis Chronologie
+
+## Jahresübersichten (Listenform)
+- [📄 Chronologie 2025 (Liste)](notizen/2025.md)
+- [📄 Chronologie 2024 (Liste)](notizen/2024.md)
+- [📄 Chronologie 2023 (Liste)](notizen/2023.md)
+- [📄 Chronologie 2022 (Liste)](notizen/2022.md)
+
+## Jahresübersichten (Tabellenform)
+- [📊 Chronologie 2025 (Tabelle)](notizen/2025_tabelle.md)
+- [📊 Chronologie 2024 (Tabelle)](notizen/2024_tabelle.md)
+- [📊 Chronologie 2023 (Tabelle)](notizen/2023_tabelle.md)
+- [📊 Chronologie 2022 (Tabelle)](notizen/2022_tabelle.md)
