@@ -69,3 +69,16 @@
 - **Absender**: Kanzlei  
 - **Empfänger**: Gericht / Gegenseite  
 - **Inhalt**: Übersendung von Reise- und Terminunterlagen.  
+# Chronologischer Verlauf 2025 (Detailerfassung)
+
+## [Datum] – [Titel des Dokuments]
+- **Dokument**: [Dateiname.pdf](../verfahren/[Dateiname].pdf)  
+- **Absender**: [z. B. Gericht / Kanzlei / Beklagte]  
+- **Empfänger**: [z. B. Silke Schürmann / Gericht]  
+- **Inhalt**: [kurze Beschreibung]
+
+## [Datum] – [Titel des Dokuments]
+- **Dokument**: [Dateiname.pdf](../verfahren/[Dateiname].pdf)  
+- **Absender**: …  
+- **Empfänger**: …  
+- **Inhalt**: …
