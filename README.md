@@ -390,3 +390,10 @@ Frühjahr 2025: Mandat RA Adam Ahmed (Strafanzeigen KV & Betrug, Vorschuss 2.500
 - [📊 Chronologie 2024 (Tabelle)](notizen/2024_tabelle.md)
 - [📊 Chronologie 2023 (Tabelle)](notizen/2023_tabelle.md)
 - [📊 Chronologie 2022 (Tabelle)](notizen/2022_tabelle.md)
+
+## Cluster – thematische Sammlungen
+- [⚖️ Gericht & Beschlüsse](cluster/gericht.md)
+- [📂 Kanzlei & Anwälte](cluster/kanzlei.md)
+- [🩺 Ärzte, Befunde & Atteste](cluster/aerzte_befunde.md)
+- [📑 Versicherungen & Gutachten](cluster/versicherungen.md)
+- [💶 Kosten & Rechnungen](cluster/kosten.md)
