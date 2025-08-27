@@ -2,8 +2,10 @@
 
 | Datum              | Absender/Empfänger        | Dokument / Titel | Kurzinhalt / Relevanz |
 |--------------------|---------------------------|------------------|-----------------------|
-| **TT.MM.2023**     | Praxis Nessler / Silke Schürmann | [Rechnung 001](belege/rechnung_001.pdf) | Erste Rechnung / Beleg aus 2023. |
-| **TT.MM.2023**     | Silke Schürmann / Anwalt  | [Brief 001](schreiben/brief_001.pdf) | Erster anwaltlicher Schriftwechsel oder Beschwerde. |
-| **TT.MM.2023**     | Gericht / Silke Schürmann | [Gerichtsschreiben 001](schreiben/gericht_001.pdf) | Eingang eines gerichtlichen Schreibens (z. B. Mitteilung, Fristsetzung). |
-| **TT.MM.2023**     | interne Notizen / Unterlagen | [Notiz 001](notizen/notiz_001.pdf) | Eigene Aufzeichnungen oder interne Vermerke. |
-| **TT.MM.2023**     | [Absender] / [Empfänger] | [Beleg XY](belege/dateiname.pdf) | Platzhalter für weiteres Dokument aus 2023. |
+| **01.2023**        | Praxis Nessler            | [Rechnung 001](belege/rechnung_001.pdf) | Fortlaufende Abrechnung trotz bekannter Beschwerden und instabiler Situation. |
+| **02.2023**        | Silke Schürmann / RA Schmidt | [Mandatierungsschreiben](schreiben/mandatierung.pdf) | Erste anwaltliche Einschaltung, offizielle Vertretungsanzeige. |
+| **03.2023**        | Gericht / Silke Schürmann | [Gerichtsschreiben 001](schreiben/gericht_001.pdf) | Mitteilung des Gerichts über Beginn des selbstständigen Beweisverfahrens. |
+| **04.2023**        | Silke Schürmann / RA Schmidt | [Beschwerde 001](schreiben/beschwerde_001.pdf) | Hinweis auf Verschlechterung der gesundheitlichen Situation, Bitte um Gutachtertermin. |
+| **Sommer 2023**    | Gericht / Silke Schürmann | [Fristverlängerung](schreiben/gericht_frist2023.pdf) | Gericht setzt neue Frist / verschiebt Gutachterbestellung. |
+| **Herbst 2023**    | Silke Schürmann / Anwalt  | [Beschwerde 002](schreiben/beschwerde_002.pdf) | Weitere Beschwerde wegen Untätigkeit des Gerichts und fehlender Behandlung. |
+| **Ende 2023**      | interne Notizen           | [Notiz 001](notizen/notiz_ende2023.pdf) | Eigene Vermerke zu gesundheitlicher Verschlechterung und Kostenbelastung. |
