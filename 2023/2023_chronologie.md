@@ -17,3 +17,14 @@
 | **03.2023**        | Landgericht Stuttgart     | [Beschluss 001](schreiben/beschluss_2023_001.pdf) | Beschluss zur Einleitung des selbstständigen Beweisverfahrens. |
 | **05.2023**        | Landgericht Stuttgart     | [Beschluss 002](schreiben/beschluss_2023_002.pdf) | Fristverlängerung / Terminverschiebung Gutachter. |
 | **09.2023**        | Landgericht Stuttgart     | [Beschluss 003](schreiben/beschluss_2023_003.pdf) | Mitteilung: neuer Gutachter wird benannt, Verfahren verzögert sich. |
+
+## ⚖️ Gerichtliche Vorgänge 2023
+
+### 2023 – Landgericht Stuttgart, Az. 716 XVII 610/23
+
+- **[03.03.2023] – Beschluss**  
+  → **Beteiligte:** Klägerin: Silke Schürmann – Beklagter: Dr. Thomas Nessler  
+  → **Kernaussage:** [z. B. „Einleitung Beweisverfahren bestätigt“]  
+  → **Begründung:** [z. B. „Gutachten notwendig zur Klärung behaupteter Behandlungsfehler“]  
+  → **Zitat aus Beschluss:** „[…]“  
+  → **Relevanz:** [z. B. Beweisbeschluss ist Grundlage für Gutachterbestellung]  
