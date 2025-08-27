@@ -31,3 +31,47 @@
 - **Empfänger**: Silke Schürmann  
 - **Inhalt**: Absage eines geplanten Termins durch Zriny (April 2024).  
 
+## 30.01.2024 – Stellungnahme
+- **Dokument**: [20240130_Stellungnahme_.pdf](../verfahren/20240130_Stellungnahme_.pdf)  
+- **Absender**: Silke Schürmann  
+- **Empfänger**: Gericht  
+- **Inhalt**: Stellungnahme im Verfahren S 17 KR 1519/23, Bezug auf Krankenkasse und Behandlung.  
+
+--
+## 30.01.2024 – Stellungnahme
+- **Dokument**: [20240130_Stellungnahme_.pdf](../verfahren/20240130_Stellungnahme_.pdf)  
+- **Absender**: Silke Schürmann  
+- **Empfänger**: Gericht  
+- **Inhalt**: Stellungnahme im Verfahren S 17 KR 1519/23, Bezug auf Krankenkasse und Behandlung.  
+
+---
+
+## 23.04.2024 – Stellungnahme
+- **Dokument**: [20240423_Stellungnahme_S_17_KR_1519-23.pdf](../verfahren/20240423_Stellungnahme_S_17_KR_1519-23.pdf)  
+- **Absender**: Silke Schürmann  
+- **Empfänger**: Gericht  
+- **Inhalt**: Stellungnahme mit ergänzenden Informationen im Verfahren S 17 KR 1519/23.  
+
+---
+
+## 30.04.2024 – Stellungnahme
+- **Dokument**: [20240430_Stellungnahme_S_17_KR_1519-23.pdf](../verfahren/20240430_Stellungnahme_S_17_KR_1519-23.pdf)  
+- **Absender**: Silke Schürmann  
+- **Empfänger**: Gericht  
+- **Inhalt**: Weiterführende Stellungnahme im Verfahren S 17 KR 1519/23.  
+
+---
+
+## 02.05.2024 – Stellungnahme
+- **Dokument**: [20240502_Stellungnahme_S_17_KR_1519-23.pdf](../verfahren/20240502_Stellungnahme_S_17_KR_1519-23.pdf)  
+- **Absender**: Silke Schürmann  
+- **Empfänger**: Gericht  
+- **Inhalt**: Stellungnahme mit vertiefenden Ausführungen zur Krankenkassenentscheidung.  
+
+---
+
+## 24.06.2024 – Stellungnahme
+- **Dokument**: [20240624_Stellungnahme_S_17_KR_1519-23.pdf](../verfahren/20240624_Stellungnahme_S_17_KR_1519-23.pdf)  
+- **Absender**: Silke Schürmann  
+- **Empfänger**: Gericht  
+- **Inhalt**: Ergänzende Stellungnahme mit Bezug auf bereits eingereichte Unterlagen.  
