@@ -55,4 +55,17 @@
 - **Absender**: Gericht  
 - **Empfänger**: Silke Schürmann / Kanzlei  
 - **Inhalt**: Gericht fordert Stellungnahme zu Schriftsatz der Gegenseite.
+# Chronologischer Verlauf 2023 (Detailerfassung)
+
+## [Datum] – [Titel des Dokuments]
+- **Dokument**: [Dateiname.pdf](../verfahren/[Dateiname].pdf)  
+- **Absender**: [z. B. Gericht / Kanzlei / Beklagte]  
+- **Empfänger**: [z. B. Silke Schürmann / Gericht]  
+- **Inhalt**: [kurze Beschreibung]
+
+## [Datum] – [Titel des Dokuments]
+- **Dokument**: [Dateiname.pdf](../verfahren/[Dateiname].pdf)  
+- **Absender**: …  
+- **Empfänger**: …  
+- **Inhalt**: …
 
