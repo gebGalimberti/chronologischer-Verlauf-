@@ -17,3 +17,14 @@
 | Datum              | Gericht / Beteiligte      | Dokument / Titel | Kurzinhalt / Relevanz |
 |--------------------|---------------------------|------------------|-----------------------|
 | **12.2022**        | Landgericht Stuttgart     | [Beschluss 001](schreiben/beschluss_2022_001.pdf) | Erste gerichtliche Mitteilung / Eingangsanordnung (Einleitung Beweisverfahren). |
+
+## ⚖️ Gerichtliche Vorgänge 2023
+
+### 2023 – Landgericht Stuttgart, Az. 716 XVII 610/23
+
+- **[03.03.2023] – Beschluss**  
+  → **Beteiligte:** Klägerin: Silke Schürmann – Beklagter: Dr. Thomas Nessler  
+  → **Kernaussage:** [z. B. „Einleitung Beweisverfahren bestätigt“]  
+  → **Begründung:** [z. B. „Gutachten notwendig zur Klärung behaupteter Behandlungsfehler“]  
+  → **Zitat aus Beschluss:** „[…]“  
+  → **Relevanz:** [z. B. Beweisbeschluss ist Grundlage für Gutachterbestellung]  
