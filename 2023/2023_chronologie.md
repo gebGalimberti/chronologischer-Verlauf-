@@ -12,14 +12,6 @@
 
 ## ⚖️ Gerichtliche Vorgänge 2023
 
-| Datum              | Gericht / Beteiligte      | Dokument / Titel | Kurzinhalt / Relevanz |
-|--------------------|---------------------------|------------------|-----------------------|
-| **03.2023**        | Landgericht Stuttgart     | [Beschluss 001](schreiben/beschluss_2023_001.pdf) | Beschluss zur Einleitung des selbstständigen Beweisverfahrens. |
-| **05.2023**        | Landgericht Stuttgart     | [Beschluss 002](schreiben/beschluss_2023_002.pdf) | Fristverlängerung / Terminverschiebung Gutachter. |
-| **09.2023**        | Landgericht Stuttgart     | [Beschluss 003](schreiben/beschluss_2023_003.pdf) | Mitteilung: neuer Gutachter wird benannt, Verfahren verzögert sich. |
-
-## ⚖️ Gerichtliche Vorgänge 2023
-
 ### 2023 – Landgericht Stuttgart, Az. 716 XVII 610/23
 
 - **[03.03.2023] – Beschluss**  
@@ -28,3 +20,17 @@
   → **Begründung:** [z. B. „Gutachten notwendig zur Klärung behaupteter Behandlungsfehler“]  
   → **Zitat aus Beschluss:** „[…]“  
   → **Relevanz:** [z. B. Beweisbeschluss ist Grundlage für Gutachterbestellung]  
+
+- **[12.09.2023] – Beschluss**  
+  → **Beteiligte:** Klägerin: Silke Schürmann – Beklagter: Dr. Thomas Nessler  
+  → **Kernaussage:** Gericht bestellt Gutachterin Dr. Anja Geisler.  
+  → **Begründung:** Einwendungen der Klägerin werden verworfen.  
+  → **Zitat aus Beschluss:** „Die Einwendungen der Klägerin zeigen keinen Sachverhalt dar, der eine Ablehnung der Gutachterin rechtfertigt.“  
+  → **Relevanz:** Gericht weist die Klägerin formal zurück, ohne die vorgebrachten Bedenken inhaltlich zu würdigen.  
+
+- **[TT.MM.2023] – Verfügung**  
+  → **Beteiligte:** Klägerin: Silke Schürmann – Beklagter: Dr. Thomas Nessler  
+  → **Kernaussage:** [z. B. „Fristverlängerung für Beklagtenseite“]  
+  → **Begründung:** [z. B. „Dem Antrag des Beklagtenvertreters wird entsprochen“]  
+  → **Zitat aus Verfügung:** „[…]“  
+  → **Relevanz:** [z. B. erneute Verfahrensverzögerung durch Gericht]  
