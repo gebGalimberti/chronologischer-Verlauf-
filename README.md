@@ -61,3 +61,34 @@ Die Inhalte sind nach Jahren, Tabellenübersichten und thematischen Clustern geg
 - **Finanziell**: Kosten > 80.000 €, zusätzliche Aufwendungen (Schienen, Atteste, Fahrten)  
 - **Gesundheitlich**: CMD, Fehlbiss, Dauerschmerzen, psychische Belastung  
 - **Juristisch**: Gerichtliche Blockade, Mandatsprobleme, Befangenheiten  
+
+# 📑 Chronologischer Verlauf – Übersicht
+
+Willkommen im Masterdokument.  
+Die Chronologie ist nach Jahren gegliedert. Jedes Jahr liegt als eigene Datei im Repository.
+
+---
+
+## 📌 Jahresblöcke
+
+- [2022 – Chronologie](2022_chronologie.md)
+- [2023 – Chronologie](2023_chronologie.md)
+- [2024 – Chronologie](2024_chronologie.md)
+- [2025 – Chronologie](2025_chronologie.md)
+
+---
+
+## 🗂️ Hinweise zur Bearbeitung
+
+- **Neue Dokumente**: immer dem passenden Jahresdokument hinzufügen.  
+- **Format**: Tabellenstruktur (Datum / Absender-Empfänger / Titel / Kurzinhalt).  
+- **Doppelte Dokumente**: nicht löschen, sondern mit *(bereits erfasst)* markieren.  
+- **Abweichungen oder Widersprüche**: fett oder farbig hervorheben.  
+
+---
+
+## 🔗 Nächste Schritte
+
+1. Jahresblock **2022** ist angelegt → bitte prüfen und ggf. ergänzen.  
+2. Danach erstellen wir **2023** nach demselben Muster.  
+3. Abschließend Verknüpfung aller Jahresblöcke zu einer Gesamtdarstellung.
