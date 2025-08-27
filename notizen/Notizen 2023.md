@@ -44,4 +44,15 @@
 - **Dokument**: [10004093154_1_Auftragserteilung an SV Dr. Geisler.pdf](../verfahren/10004093154_1_Auftragserteilung%20an%20SV%20Dr.%20Geisler.pdf)  
 - **Absender**: Gericht  
 - **Empfänger**: Dr. Geisler (SV)  
-- **Inhalt**: Offizielle Auftragserteilung an den Sachverständigen Dr. Geisler.  
+- **Inhalt**: Offizielle Auftragserteilung an den Sachverständigen Dr. Geisler.
+- ## 15.03.2023 – Anforderung Stellungnahme
+- **Dokument**: [1000396806_1_Anforderung StN.pdf](../verfahren/1000396806_1_Anforderung%20StN.pdf)  
+- **Absender**: Gericht  
+- **Empfänger**: Silke Schürmann / Kanzlei  
+- **Inhalt**: Gericht fordert Stellungnahme zu Schriftsatz der Gegenseite.
+## 15.03.2023 – Anforderung Stellungnahme
+- **Dokument**: [1000396806_1_Anforderung StN.pdf](../verfahren/1000396806_1_Anforderung%20StN.pdf)  
+- **Absender**: Gericht  
+- **Empfänger**: Silke Schürmann / Kanzlei  
+- **Inhalt**: Gericht fordert Stellungnahme zu Schriftsatz der Gegenseite.
+
