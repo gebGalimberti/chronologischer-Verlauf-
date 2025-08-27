@@ -50,3 +50,17 @@
 - **Absender**: Versicherung (ASS)  
 - **Empfänger**: Silke Schürmann  
 - **Inhalt**: Zweite Version des Kündigungsschreibens, korrigierter Inhalt.
+# Chronologischer Verlauf 2022 – Tabelle
+
+| Datum | Dokument | Absender | Empfänger | Inhalt | Link |
+|-------|----------|----------|-----------|--------|------|
+| 2022 | ASS und Kündigung (1) | Versicherung (ASS) | Silke Schürmann | Erstes Kündigungsschreiben mit Hinweis auf Beendigung Versicherungsschutz | [PD]()
+# Chronologischer Verlauf 2022 – Tabelle
+
+| Datum | Dokument | Absender | Empfänger | Inhalt | Link |
+|-------|----------|----------|-----------|--------|------|
+| 2022 | ASS und Kündigung (1) | Versicherung (ASS) | Silke Schürmann | Erstes Kündigungsschreiben mit Hinweis auf Beendigung Versicherungsschutz | [PDF](../verfahren/10002208423_1_ASS%20und%20Kündigung.pdf) |
+| 2022 | ASS und Kündigung (2) | Versicherung (ASS) | Silke Schürmann | Zweite Fassung des Kündigungsschreibens (korrigiert) | [PDF](../verfahren/10002208423_1_ASS%20und%20Kündigung%20(2).pdf) |
+| 2022 | Deckungszusage außergerichtlich & für selbständiges Beweisverfahren | Rechtsschutzversicherung | Silke Schürmann | Deckungszusage für außergerichtliches Vorgehen und das selbständige Beweisverfahren | [PDF](../verfahren/1000228941_2_Deckungszusage%20außergerichtlich%20und%20für%20selbständiges%20Beweisverfahren.pdf) |
+| 2022 | FVA Beklagte Partei | Gericht | Beklagte Partei | Verfügung im Verfahren gegen die Beklagte Partei | [PDF](../verfahren/10002475062_1_FVA%20Bekl..pdf) |
+| 2022 | Mitteilung wegen FV für Beklagte | Gericht | Beklagte Partei | Mitteilung im Zusammenhang mit Fristverlängerung / Verfügung | [PDF](../verfahren/10002475068_1_Mitt.%20wg.%20FV%20für%20Bekl..pdf) |
