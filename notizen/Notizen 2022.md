@@ -37,3 +37,16 @@
 - **Absender**: Gericht  
 - **Empfänger**: Beklagte Partei  
 - **Inhalt**: Mitteilung im Zusammenhang mit Fristverlängerung / Verfügung.  
+
+
+## 15.09.2022 – Kündigungsschreiben (erste Fassung)
+- **Dokument**: [10002208423_1_ASS und Kündigung.pdf](../verfahren/10002208423_1_ASS%20und%20Kündigung.pdf)  
+- **Absender**: Versicherung (ASS)  
+- **Empfänger**: Silke Schürmann  
+- **Inhalt**: Erstes Kündigungsschreiben mit Hinweis auf Beendigung Versicherungsschutz.  
+
+## 20.09.2022 – Kündigungsschreiben (zweite Fassung)
+- **Dokument**: [10002208423_1_ASS und Kündigung (2).pdf](../verfahren/10002208423_1_ASS%20und%20Kündigung%20(2).pdf)  
+- **Absender**: Versicherung (ASS)  
+- **Empfänger**: Silke Schürmann  
+- **Inhalt**: Zweite Version des Kündigungsschreibens, korrigierter Inhalt.
