@@ -9,3 +9,11 @@
 | **Herbst 2022**    | Praxis Nessler            | [Schiene 001](belege/schiene_herbst2022.pdf) | Herausgabe einer Schiene als „Therapie“ – ohne Behebung der Ursache. |
 | **Herbst 2022**    | Silke Schürmann / Praxis Nessler | [Beschwerde 002](schreiben/beschwerde_002.pdf) | Weitere Beschwerden über anhaltende Instabilität, Hinweis auf Funktionsanalyse ignoriert. |
 | **Ende 2022**      | interne Notizen / Unterlagen | [Aufzeichnungen 001](notizen/notiz_ende2022.pdf) | Divergierende Dokumentation (z. B. falscher Behandlungsbeginn, fehlende Aufklärung). |
+
+---
+
+## ⚖️ Gerichtliche Vorgänge 2022
+
+| Datum              | Gericht / Beteiligte      | Dokument / Titel | Kurzinhalt / Relevanz |
+|--------------------|---------------------------|------------------|-----------------------|
+| **12.2022**        | Landgericht Stuttgart     | [Beschluss 001](schreiben/beschluss_2022_001.pdf) | Erste gerichtliche Mitteilung / Eingangsanordnung (Einleitung Beweisverfahren). |
