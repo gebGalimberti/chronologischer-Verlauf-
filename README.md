@@ -214,3 +214,55 @@ zK. Deckungszusage außergerichtlich und für selbst.pdf — Deckungszusage (z.�
 Übersendungsschreiben11.6. zum Beschluss Anja G. die 2. vom 5.6. - Kopie.pdf — Übersendungsschreiben — 11.06.(Jahr prüfen) — Pfad: ./Anlagen/Übersendungsschreiben11.6. zum Beschluss Anja G. die 2. vom 5.6. - Kopie.pdf
 
 Übersendungsschreiben11.6. zum Beschluss Anja G. die 2. vom 5.6..pdf — Übersendungsschreiben — 11.06.(Jahr prüfen) — Pfad: ./Anlagen/Übersendungsschreiben11.6. zum Beschluss Anja G. die 2. vom 5.6..pdfe[:5]
+# 📄 Chronologischer Verlauf – Ergebnisse
+
+- [10002208423_1_ASS und Kündigung](verfahren/10002208423_1_ASS%20und%20Kündigung.pdf)  
+  > Kündigungsschreiben (ASS)
+
+- [10002208423_1_ASS und Kündigung (2)](verfahren/10002208423_1_ASS%20und%20Kündigung%20(2).pdf)  
+  > Zweite Fassung Kündigungsschreiben
+
+- [1000228941_2_Deckungszusage außergerichtlich und für selbständiges Beweisverfahren](verfahren/1000228941_2_Deckungszusage%20außergerichtlich%20und%20für%20selbständiges%20Beweisverfahren.pdf)  
+  > Deckungszusage Rechtsschutz
+
+- [10002475062_1_FVA Bekl.](verfahren/10002475062_1_FVA%20Bekl..pdf)  
+  > FVA Beklagte Partei
+
+- [10002475068_1_Mitt. wg. FV für Bekl.](verfahren/10002475068_1_Mitt.%20wg.%20FV%20für%20Bekl..pdf)  
+  > Mitteilung wegen Verfahren Beklagte Partei
+
+- [1000254528_1_Vertretungsanzeige und Aufforderungsschreiben](verfahren/1000254528_1_Vertretungsanzeige%20und%20Aufforderungsschreiben.pdf)  
+  > Vertretungsanzeige / Aufforderungsschreiben
+
+- [1000396806_1_Anforderung StN](verfahren/1000396806_1_Anforderung%20StN.pdf)  
+  > Anforderung StN
+
+- [10003997337_1_FVA StN wg. SV](verfahren/10003997337_1_FVA%20StN%20wg.%20SV.pdf)  
+  > FVA StN wegen Sachverständigen
+
+- [10004018210_1_Übersendungsschreiben](verfahren/10004018210_1_Übersendungsschreiben.pdf)  
+  > Übersendungsschreiben
+
+- [10004018213_1_Verfügung FV gewährt und Info angefragte SVs](verfahren/10004018213_1_Verfügung%20FV%20gewährt%20und%20Info%20angefragte%20SVs.pdf)  
+  > Verfügung FV gewährt / Infos SVs
+
+- [10004093154_1_Auftragserteilung an SV Dr. Geisler](verfahren/10004093154_1_Auftragserteilung%20an%20SV%20Dr.%20Geisler.pdf)  
+  > Auftrag an Sachverständige Dr. Geisler
+
+- [20252107_Sachstandsanfrage_freigegeben](verfahren/20252107_Sachstandsanfrage_freigegeben.pdf)  
+  > Sachstandsanfrage freigegeben
+
+- [20253007_Sachstandsanfrage_kein gutes Gefühl freigegeben](verfahren/20253007_Sachstandsanfrage_kein%20gutes%20Gefühl%20freigegeben.pdf)  
+  > Sachstandsanfrage „kein gutes Gefühl“
+
+- [25_02_27_entwurf](verfahren/25_02_27_entwurf.pdf)  
+  > Entwurf vom 27.02.2025
+
+- [25_02_27_Nachfrage bei Gericht](verfahren/25_02_27_Nachfrage%20bei%20Gericht.pdf)  
+  > Nachfrage bei Gericht (27.02.2025)
+
+- [25_02_27_Nachfrage bei Gericht – Kopie](verfahren/25_02_27_Nachfrage%20bei%20Gericht%20-%20Kopie.pdf)  
+  > Nachfrage bei Gericht – Kopie
+
+- [Absage Zriny im April](verfahren/Absage%20Zriny%20im%20April.pdf)  
+  > Absage Zriny (April)
