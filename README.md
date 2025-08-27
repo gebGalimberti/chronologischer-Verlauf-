@@ -61,5 +61,3 @@ Die Inhalte sind nach Jahren, Tabellenübersichten und thematischen Clustern geg
 - **Finanziell**: Kosten > 80.000 €, zusätzliche Aufwendungen (Schienen, Atteste, Fahrten)  
 - **Gesundheitlich**: CMD, Fehlbiss, Dauerschmerzen, psychische Belastung  
 - **Juristisch**: Gerichtliche Blockade, Mandatsprobleme, Befangenheiten  
-
-- [📑 Versicherungen & Gutachten](cluster/versicherungen.md)
