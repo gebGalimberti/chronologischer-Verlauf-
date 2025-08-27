@@ -119,4 +119,9 @@
 - **Absender**: Gericht  
 - **Empfänger**: Dr. Anja Geisler (Sachverständige)  
 - **Inhalt**: Offizielle Auftragserteilung an die Sachverständige.  
+## 07.03.2023 – Genehmigungsfiktion
+- **Dokument**: [20230307_Genehmigungsfiktion_Schürmann.pdf](../verfahren/20230307_Genehmigungsfiktion_Schürmann.pdf)  
+- **Absende**
+
+
 
