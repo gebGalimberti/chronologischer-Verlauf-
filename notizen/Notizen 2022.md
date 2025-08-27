@@ -64,3 +64,17 @@
 | 2022 | Deckungszusage außergerichtlich & für selbständiges Beweisverfahren | Rechtsschutzversicherung | Silke Schürmann | Deckungszusage für außergerichtliches Vorgehen und das selbständige Beweisverfahren | [PDF](../verfahren/1000228941_2_Deckungszusage%20außergerichtlich%20und%20für%20selbständiges%20Beweisverfahren.pdf) |
 | 2022 | FVA Beklagte Partei | Gericht | Beklagte Partei | Verfügung im Verfahren gegen die Beklagte Partei | [PDF](../verfahren/10002475062_1_FVA%20Bekl..pdf) |
 | 2022 | Mitteilung wegen FV für Beklagte | Gericht | Beklagte Partei | Mitteilung im Zusammenhang mit Fristverlängerung / Verfügung | [PDF](../verfahren/10002475068_1_Mitt.%20wg.%20FV%20für%20Bekl..pdf) |
+# Chronologischer Verlauf 2022 (Detailerfassung)
+
+## [Datum] – [Titel des Dokuments]
+- **Dokument**: [Dateiname.pdf](../verfahren/[Dateiname].pdf)  
+- **Absender**: [z. B. Gericht / Kanzlei / Versicherung]  
+- **Empfänger**: [z. B. Silke Schürmann / Gericht]  
+- **Inhalt**: [kurze Beschreibung]
+
+## [Datum] – [Titel des Dokuments]
+- **Dokument**: [Dateiname.pdf](../verfahren/[Dateiname].pdf)  
+- **Absender**: …  
+- **Empfänger**: …  
+- **Inhalt**: …
+
