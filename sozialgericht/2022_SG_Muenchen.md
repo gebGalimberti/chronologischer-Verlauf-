@@ -1,7 +1,11 @@
 # ⚖️ Sozialgericht München – Jahr 2022
 
-## 11.2022 – Schreiben / Verfügung (Antrag eingegangen)
-- **Beteiligte:** Sozialgericht München → Klägerin Silke Schürmann
-- **Inhalt:** Eingang eines Antrags auf Kostenübernahme / Rentenangelegenheiten.
-- **Zitat:** „[…]“
-- **Relevanz:** Start des sozialgerichtlichen Verfahrens, Grundlage für spätere Auseinandersetzungen.
+## 2022-11-__ – Schreiben (Antrag eingegangen)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Klägerin → Gericht
+- **Dokumentdaten:** Dokumentdatum 2022-11-__ | Eingang 2022-11-__
+- **Kernaussage:** Eingang eines Antrags (z. B. Kostenübernahme).
+- **Disposition:** registriert
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Start sozialgerichtliches Verfahren.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
