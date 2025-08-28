@@ -1,15 +1,23 @@
 # ⚖️ Sozialgericht München – Jahr 2025
 
-## 01.2025 – Beschluss (Verhandlungstermin anberaumt)
-- **Beteiligte:** Sozialgericht München → Parteien
-- **Inhalt:** Gericht setzt Termin zur mündlichen Verhandlung fest.
-- **Zitat:** „[…]“
-- **Relevanz:** Schritt in Richtung Entscheidung, zeigt Dauer des Verfahrens.
+## 2025-01-__ – Verfügung (Verhandlungstermin anberaumt)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Gericht → Parteien
+- **Dokumentdaten:** Dokumentdatum 2025-01-__ | Eingang 2025-01-__
+- **Kernaussage:** Termin zur mündlichen Verhandlung wird gesetzt.
+- **Disposition:** angeordnet
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Fortschritt im Verfahren.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
 
 ---
 
-## 06.2025 – Beschluss (Teilweise Anerkennung)
-- **Beteiligte:** Sozialgericht München → Klägerin Silke Schürmann
-- **Inhalt:** Gericht erkennt Kosten teilweise an, lehnt Rest ab.
-- **Zitat:** „[…]“
-- **Relevanz:** Gericht bestätigt teilweise Ansprüche, aber unzureichend zur Deckung der Gesamtkosten.
+## 2025-06-__ – Beschluss (Teilweise Anerkennung)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Gericht → Klägerin
+- **Dokumentdaten:** Dokumentdatum 2025-06-__ | Eingang 2025-06-__
+- **Kernaussage:** Gericht erkennt Kosten teilweise an, lehnt Rest ab.
+- **Disposition:** teilweise stattgegeben
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Teilerfolg, aber unzureichend zur Deckung Gesamtkosten.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
