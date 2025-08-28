@@ -1,126 +1,46 @@
-# 📑 Chronologischer Verlauf – Übersicht
+# 📖 Chronologischer Verlauf – Übersicht
 
-Dieses Repository dokumentiert den gesamten chronologischen Verlauf des zahnmedizinischen und juristischen Verfahrens (2016–2025).  
-Die Inhalte sind nach Jahren, Tabellenübersichten und thematischen Clustern gegliedert.  
-
----
-
-## 📄 Jahresübersichten (Listenform)
-- [📄 Chronologie 2025 (Liste)](notizen/2025.md)
-- [📄 Chronologie 2024 (Liste)](notizen/2024.md)
-- [📄 Chronologie 2023 (Liste)](notizen/2023.md)
-- [📄 Chronologie 2022 (Liste)](notizen/2022.md)
+Willkommen zur Master-Dokumentation.  
+Dieses Projekt sammelt und strukturiert ALLE Dokumente aus den Verfahren (Landgericht, Amtsgericht, Sozialgericht).  
+Zentrale Kontrollinstrumente: **Fragenliste** & **Korrekturliste**.
 
 ---
 
-## 📊 Jahresübersichten (Tabellenform)
-- [📊 Chronologie 2025 (Tabelle)](notizen/2025_tabelle.md)
-- [📊 Chronologie 2024 (Tabelle)](notizen/2024_tabelle.md)
-- [📊 Chronologie 2023 (Tabelle)](notizen/2023_tabelle.md)
-- [📊 Chronologie 2022 (Tabelle)](notizen/2022_tabelle.md)
+## 🗂️ Gerichtsebenen
+
+- ⚖️ [Landgericht Stuttgart](../landgericht/README.md)  
+  → Beweisverfahren gegen Dr. Nessler (2022–2025)
+
+- ⚖️ [Amtsgericht München](../amtsgericht/README.md)  
+  → Betreuung, Vorsorge, Betreuerwechsel (2022–2025)
+
+- ⚖️ [Sozialgericht München](../sozialgericht/README.md)  
+  → Krankenkasse, Rente, MDK, Kosten (2022–2025)
 
 ---
 
-## 📂 Cluster – thematische Sammlungen
-- [⚖️ Gericht & Beschlüsse](cluster/gericht.md)
-- [📂 Kanzlei & Anwälte](cluster/kanzlei.md)
-- [🩺 Ärzte, Befunde & Atteste](cluster/aerzte_befunde.md)
-- [📑 Versicherungen & Gutachten](cluster/versicherungen.md)
-- [💶 Kosten & Rechnungen](cluster/kosten.md)
+## 📑 Kontroll- & Prüfdateien
+
+- ❓ [Offene Fragen (fragen.md)](../fragen.md)  
+  → Checkliste zu Abläufen, Reaktionszeiten, Belastungen  
+
+- 🛠️ [Korrekturliste (korrektur.md)](../korrektur.md)  
+  → Protokoll für falsche Jahresangaben, Gerichtszuständigkeiten, Dokumentarten
 
 ---
 
-## 📌 Masterversion – Chronologischer Sachverhalt (Kurzüberblick)
+## 📊 Statusübersicht
 
-### Vorgeschichte (2016–2021)
-- 2016: Mängelgutachten Dr. Glogger  
-- 2020: HKP Dr. Hagspiel (gestoppt)  
-- 2021: HKP Dr. Waller (genehmigt, nicht umgesetzt)  
-- 2021: Dr. Randelzhofer – CMD-Diagnose, Funktionsanalyse empfohlen  
-
-### Beginn Nessler (2022)
-- 22.07.2022: Erstvorstellung Dr. Nessler  
-- 2022: Scan Niklas Nessler, HKP, Einreichung KK  
-
-### HKP & Genehmigungsfiktion (2023)
-- 07–16.01.2023: HKP über Vollüberkronung (25.550 €)  
-- 02.2023: MDK-Gutachten – nur 2 Zähne behandlungsbedürftig  
-- 06–10.03.2023: Genehmigungsfiktion, Klage gegen KK  
-- 04–12.2023: Behandlung, Nachbehandler, Atteste, massive Einschränkungen  
-
-### Selbständiges Beweisverfahren (2024–2025)
-- 2024: Antrag SBV, Beschlüsse Geisler & Ciorini (aufgehoben/untätig)  
-- 2025: Beschlüsse Tobias & erneut Geisler (aufgehoben), neue Schriftsätze  
-
-### Weitere Ereignisse
-- 2025: Strafanzeigen (RA Ahmed), ZBFS-Bescheid GdB 50  
+| Gericht         | Jahre abgedeckt | Status Auswertung | Besonderheiten |
+|-----------------|-----------------|------------------|----------------|
+| Landgericht     | 2022–2025       | 🔄 in Arbeit     | viele Fristverlängerungen, Gutachterwechsel |
+| Amtsgericht     | 2022–2025       | 🔄 in Arbeit     | Betreuung mehrfach gewechselt |
+| Sozialgericht   | 2022–2025       | 🔄 in Arbeit     | Anträge teilweise abgelehnt, Eilantrag offen |
 
 ---
 
-## 📌 Folgen (Kurzfassung)
-- **Finanziell**: Kosten > 80.000 €, zusätzliche Aufwendungen (Schienen, Atteste, Fahrten)  
-- **Gesundheitlich**: CMD, Fehlbiss, Dauerschmerzen, psychische Belastung  
-- **Juristisch**: Gerichtliche Blockade, Mandatsprobleme, Befangenheiten  
-
-# 📑 Chronologischer Verlauf – Übersicht
-
-Willkommen im Masterdokument.  
-Die Chronologie ist nach Jahren gegliedert. Jedes Jahr liegt als eigene Datei im Repository.
-
----
-
-## 📌 Jahresblöcke
-
-- [2022 – Chronologie](2022_chronologie.md)
-- [2023 – Chronologie](2023_chronologie.md)
-- [2024 – Chronologie](2024_chronologie.md)
-- [2025 – Chronologie](2025_chronologie.md)
-
----
-
-## 🗂️ Hinweise zur Bearbeitung
-
-- **Neue Dokumente**: immer dem passenden Jahresdokument hinzufügen.  
-- **Format**: Tabellenstruktur (Datum / Absender-Empfänger / Titel / Kurzinhalt).  
-- **Doppelte Dokumente**: nicht löschen, sondern mit *(bereits erfasst)* markieren.  
-- **Abweichungen oder Widersprüche**: fett oder farbig hervorheben.  
-
----
-
-## 🔗 Nächste Schritte
-
-1. Jahresblock **2022** ist angelegt → bitte prüfen und ggf. ergänzen.  
-2. Danach erstellen wir **2023** nach demselben Muster.  
-3. Abschließend Verknüpfung aller Jahresblöcke zu einer Gesamtdarstellung.
-
-# 📑 Chronologischer Verlauf – Übersicht
-
-Willkommen im Masterdokument.  
-Die Chronologie ist nach Jahren gegliedert. Jedes Jahr liegt als eigene Datei im Repository.
-
----
-
-## 📌 Jahresblöcke
-
-- [2022 – Chronologie](2022_chronologie.md)
-- [2023 – Chronologie](2023_chronologie.md)
-- [2024 – Chronologie](2024_chronologie.md)
-- [2025 – Chronologie](2025_chronologie.md)
-
----
-
-## 🗂️ Hinweise zur Bearbeitung
-
-- **Neue Dokumente**: immer dem passenden Jahresdokument hinzufügen.  
-- **Format**: Tabellenstruktur (Datum / Absender-Empfänger / Titel / Kurzinhalt).  
-- **Doppelte Dokumente**: nicht löschen, sondern mit *(bereits erfasst)* markieren.  
-- **Abweichungen oder Widersprüche**: **fett** hervorheben.  
-
----
-
-## 🔗 Nächste Schritte
-
-1. Jahresblock **2022** ist angelegt → bitte prüfen und ggf. ergänzen.  
-2. Danach erstellen wir **2023** nach demselben Muster.  
-3. Anschließend kommen **2024** und **2025**.  
-4. Zum Schluss: Verknüpfung aller Jahresblöcke in einer Gesamtdarstellung.
+## 📝 Hinweise
+- Alle Original-PDFs bleiben im **Hauptordner** → Quellen bleiben unverändert.  
+- Verlinkungen in den Jahresdateien gehen immer via `../DATEINAME.pdf`.  
+- **Zitate** aus Gerichtsbeschlüssen unbedingt wörtlich übernehmen.  
+- Bei Unsicherheiten: Eintrag in **fragen.md** und/oder **korrektur.md**.
