@@ -1,40 +1,22 @@
-# 📖 Chronologischer Verlauf – Gesamtdokumentation
+# Chronologischer Verlauf – Dashboard
 
-Dieses Repository sammelt und strukturiert alle relevanten Dokumente und Chronologien aus den Verfahren.
+## Schnellzugriff
+- **Gesamtverlauf:** [/gesamt_verlauf.md](./gesamt_verlauf.md)
+- **Korrekturliste:** [/korrektur/2023_Korrekturliste.md](./korrektur/2023_Korrekturliste.md)
 
----
+## Jahres-Chronik
+- [2022](./2022/2022_chronologie.md)
+- [2023](./2023/2023_chronologie.md)
+- [2024](./2024/2024_chronologie.md)
+- [2025](./2025/2025_chronologie.md)
 
-## 🗂️ Gerichtsebenen
+## Gericht
+- **Amtsgericht:** [Übersicht](./amtsgericht/README.md)
+- **Landgericht:** [Übersicht](./landgericht/README.md)
 
-- ⚖️ [Landgericht Stuttgart](landgericht/README.md)  
-  → Beweisverfahren gegen Dr. Nessler (2022–2025)
+## Themen-Cluster
+- [Ärzte & Befunde](./cluster/aerzte_befunde.md)
+- [Weitere Cluster](./cluster/README.md)
 
-- ⚖️ [Amtsgericht München](amtsgericht/README.md)  
-  → Betreuung, Vorsorge, Betreuerwechsel (2022–2025)
-
-- ⚖️ [Sozialgericht München](sozialgericht/README.md)  
-  → Krankenkasse, Rente, MDK, Kosten (2022–2025)
-
----
-
-## 📑 Kontroll- & Prüfdateien
-
-- ❓ [Offene Fragen (fragen.md)](fragen.md)  
-- 🛠️ [Korrekturliste (korrektur.md)](korrektur.md)  
-
----
-
-## 📊 Statusübersicht
-
-| Gericht       | Jahre abgedeckt | Status Auswertung | Besonderheiten |
-|---------------|-----------------|------------------|----------------|
-| Landgericht   | 2022–2025       | 🔄 in Arbeit     | Fristverlängerungen, Gutachterwechsel, Untätigkeitsbeschwerde |
-| Amtsgericht   | 2022–2025       | 🔄 in Arbeit     | Betreuerwechsel, Beschwerden Klägerin |
-| Sozialgericht | 2022–2025       | 🔄 in Arbeit     | Eilantrag abgelehnt, teilweise Anerkennung |
-
----
-
-## 📝 Hinweise
-- Alle Original-PDFs bleiben im Hauptordner → Quellen unverändert.  
-- Verlinkungen in Jahresdateien: `../DATEINAME.pdf`  
-- Bei Unklarheiten: Eintrag in **fragen.md** oder **korrektur.md**.  
+## Datei-Index (alle PDFs im Root)
+- [datei_index.md](./datei_index.md)
