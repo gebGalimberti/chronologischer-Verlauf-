@@ -1,15 +1,23 @@
 # ⚖️ Amtsgericht München – Jahr 2025
 
-## 01.2025 – Beschluss (Neuer Betreuer bestellt)
-- **Beteiligte:** Amtsgericht München → Klägerin Silke Schürmann
-- **Inhalt:** Gericht bestellt einen neuen Betreuer (z. B. RA Westhagen).
-- **Zitat:** „[…]“
-- **Relevanz:** Dokumentiert Wechsel im Betreuungsverfahren, zeigt Instabilität.
+## 2025-01-__ – Beschluss (Neuer Betreuer bestellt)
+- **Gericht:** Amtsgericht München
+- **Beteiligte:** Gericht → Klägerin
+- **Dokumentdaten:** Dokumentdatum 2025-01-__ | Eingang 2025-01-__
+- **Kernaussage:** Bestellung eines neuen Betreuers (z. B. RA Westhagen).
+- **Disposition:** angeordnet
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** zeigt Wechsel im Betreuungsverfahren, instabile Lage.
+- **Quelle:** [DATEINAME.pdf](../DATEINAME.pdf)
 
 ---
 
-## 06.2025 – Verfügung (Beschwerde gegen Betreuung)
-- **Beteiligte:** Klägerin → Amtsgericht München
-- **Inhalt:** Klägerin legt Beschwerde gegen bestehende Betreuung ein.
-- **Zitat:** „[…]“
-- **Relevanz:** Belegt Widerstand gegen gerichtlich aufgezwungene Betreuung.
+## 2025-06-__ – Verfügung (Beschwerde gegen Betreuung)
+- **Gericht:** Amtsgericht München
+- **Beteiligte:** Klägerin → Gericht
+- **Dokumentdaten:** Dokumentdatum 2025-06-__ | Eingang 2025-06-__
+- **Kernaussage:** Klägerin legt Beschwerde gegen bestehende Betreuung ein.
+- **Disposition:** eingegangen / registriert
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** zeigt Widerstand gegen Betreuung, Grundlage für spätere Verfahren.
+- **Quelle:** [DATEINAME.pdf](../DATEINAME.pdf)
