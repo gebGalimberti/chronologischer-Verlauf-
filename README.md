@@ -1,46 +1,40 @@
-# 📖 Chronologischer Verlauf – Übersicht
+# 📖 Chronologischer Verlauf – Gesamtdokumentation
 
-Willkommen zur Master-Dokumentation.  
-Dieses Projekt sammelt und strukturiert ALLE Dokumente aus den Verfahren (Landgericht, Amtsgericht, Sozialgericht).  
-Zentrale Kontrollinstrumente: **Fragenliste** & **Korrekturliste**.
+Dieses Repository sammelt und strukturiert alle relevanten Dokumente und Chronologien aus den Verfahren.
 
 ---
 
 ## 🗂️ Gerichtsebenen
 
-- ⚖️ [Landgericht Stuttgart](../landgericht/README.md)  
+- ⚖️ [Landgericht Stuttgart](landgericht/README.md)  
   → Beweisverfahren gegen Dr. Nessler (2022–2025)
 
-- ⚖️ [Amtsgericht München](../amtsgericht/README.md)  
+- ⚖️ [Amtsgericht München](amtsgericht/README.md)  
   → Betreuung, Vorsorge, Betreuerwechsel (2022–2025)
 
-- ⚖️ [Sozialgericht München](../sozialgericht/README.md)  
+- ⚖️ [Sozialgericht München](sozialgericht/README.md)  
   → Krankenkasse, Rente, MDK, Kosten (2022–2025)
 
 ---
 
 ## 📑 Kontroll- & Prüfdateien
 
-- ❓ [Offene Fragen (fragen.md)](../fragen.md)  
-  → Checkliste zu Abläufen, Reaktionszeiten, Belastungen  
-
-- 🛠️ [Korrekturliste (korrektur.md)](../korrektur.md)  
-  → Protokoll für falsche Jahresangaben, Gerichtszuständigkeiten, Dokumentarten
+- ❓ [Offene Fragen (fragen.md)](fragen.md)  
+- 🛠️ [Korrekturliste (korrektur.md)](korrektur.md)  
 
 ---
 
 ## 📊 Statusübersicht
 
-| Gericht         | Jahre abgedeckt | Status Auswertung | Besonderheiten |
-|-----------------|-----------------|------------------|----------------|
-| Landgericht     | 2022–2025       | 🔄 in Arbeit     | viele Fristverlängerungen, Gutachterwechsel |
-| Amtsgericht     | 2022–2025       | 🔄 in Arbeit     | Betreuung mehrfach gewechselt |
-| Sozialgericht   | 2022–2025       | 🔄 in Arbeit     | Anträge teilweise abgelehnt, Eilantrag offen |
+| Gericht       | Jahre abgedeckt | Status Auswertung | Besonderheiten |
+|---------------|-----------------|------------------|----------------|
+| Landgericht   | 2022–2025       | 🔄 in Arbeit     | Fristverlängerungen, Gutachterwechsel, Untätigkeitsbeschwerde |
+| Amtsgericht   | 2022–2025       | 🔄 in Arbeit     | Betreuerwechsel, Beschwerden Klägerin |
+| Sozialgericht | 2022–2025       | 🔄 in Arbeit     | Eilantrag abgelehnt, teilweise Anerkennung |
 
 ---
 
 ## 📝 Hinweise
-- Alle Original-PDFs bleiben im **Hauptordner** → Quellen bleiben unverändert.  
-- Verlinkungen in den Jahresdateien gehen immer via `../DATEINAME.pdf`.  
-- **Zitate** aus Gerichtsbeschlüssen unbedingt wörtlich übernehmen.  
-- Bei Unsicherheiten: Eintrag in **fragen.md** und/oder **korrektur.md**.
+- Alle Original-PDFs bleiben im Hauptordner → Quellen unverändert.  
+- Verlinkungen in Jahresdateien: `../DATEINAME.pdf`  
+- Bei Unklarheiten: Eintrag in **fragen.md** oder **korrektur.md**.  
