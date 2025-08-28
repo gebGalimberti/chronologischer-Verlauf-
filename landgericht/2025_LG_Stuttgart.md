@@ -1,23 +1,23 @@
 # ⚖️ Landgericht Stuttgart – Jahr 2025
 
-## 02.2025 – Beschluss (Untätigkeitsbeschwerde zurückgewiesen)
+## 2025-02-__ – Beschluss (Untätigkeitsbeschwerde zurückgewiesen)
+- **Gericht:** LG Stuttgart, Az. [716 XVII 610/23]
 - **Beteiligte:** Klägerin → Gericht
-- **Inhalt:** Die von der Klägerin eingereichte Untätigkeitsbeschwerde wird zurückgewiesen.
-- **Zitat:** „Die Beschwerde wird als unbegründet zurückgewiesen. Ein Verfahrensverstoß ist nicht ersichtlich.“
-- **Relevanz:** Gericht bestätigt faktische Blockade des Verfahrens, obwohl seit Jahren keine sachgerechte Beweiserhebung erfolgt.
+- **Dokumentdaten:** Dokumentdatum 2025-02-__ | Eingang 2025-02-__
+- **Kernaussage:** Untätigkeitsbeschwerde wird zurückgewiesen.
+- **Disposition:** abgelehnt
+- **Wortlaut (Zitat):** „Die Beschwerde wird als unbegründet zurückgewiesen. Ein Verfahrensverstoß ist nicht ersichtlich.“
+- **Relevanz:** Gericht verneint Verfahrensverstoß trotz Verzögerungen.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
 
 ---
 
-## 05.2025 – Verfügung (erneuter Gutachter benannt)
+## 2025-08-__ – Verfügung (Gutachter legt Mandat nieder)
+- **Gericht:** LG Stuttgart, Az. [716 XVII 610/23]
 - **Beteiligte:** Gericht → Parteien
-- **Inhalt:** Gericht kündigt Bestellung eines neuen Gutachters an.
-- **Zitat:** „[…]“
-- **Relevanz:** Dokumentiert, dass der zuvor bestellte Gutachter nicht mehr tätig wird. Erneute Verfahrensverzögerung.
-
----
-
-## 08.2025 – Verfügung (Gutachter zieht sich zurück)
-- **Beteiligte:** Gericht → Parteien
-- **Inhalt:** Gericht teilt mit, dass der Gutachter seine Beauftragung niederlegt.
-- **Zitat:** „[…]“
-- **Relevanz:** Kernpunkt des Verfahrens bleibt weiterhin unbearbeitet. Klägerin bleibt ohne Gutachten – weitere Verschleppung.
+- **Dokumentdaten:** Dokumentdatum 2025-08-__ | Eingang 2025-08-__
+- **Kernaussage:** Gutachter beendet Tätigkeit.
+- **Disposition:** mitgeteilt
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Beweisaufnahme blockiert.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
