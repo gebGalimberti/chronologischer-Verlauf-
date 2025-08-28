@@ -1,0 +1,20 @@
+Automatischer Bericht
+=====================
+
+Datenübersicht:
+Kategorie  Wert
+        A    23
+        B    45
+        C    12
+        D    67
+
+Statistische Zusammenfassung:
+            Wert
+count   4.000000
+mean   36.750000
+std    24.390914
+min    12.000000
+25%    20.250000
+50%    34.000000
+75%    50.500000
+max    67.000000
