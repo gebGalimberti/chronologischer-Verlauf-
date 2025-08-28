@@ -1,23 +1,23 @@
 # ⚖️ Landgericht Stuttgart – Jahr 2024
 
-## 03.2024 – Beschluss (weitere Fristverlängerung)
-- **Beteiligte:** Beklagtenanwalt → Gericht
-- **Inhalt:** Antrag der Beklagtenseite auf Fristverlängerung wird gewährt.
-- **Zitat:** „Die Frist zur Stellungnahme wird bis zum … verlängert.“
-- **Relevanz:** Zeigt die wiederholte Begünstigung der Beklagtenseite. Das Verfahren verzögert sich weiter zulasten der Klägerin.
+## 2024-03-__ – Verfügung (weitere Fristverlängerung)
+- **Gericht:** LG Stuttgart, Az. [716 XVII 610/23]
+- **Beteiligte:** Gericht → Parteien
+- **Dokumentdaten:** Dokumentdatum 2024-03-__ | Eingang 2024-03-__
+- **Kernaussage:** Frist zur Stellungnahme der Beklagtenseite verlängert.
+- **Disposition:** stattgegeben
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** erneute Verzögerung.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
 
 ---
 
-## 06.2024 – Verfügung (Verzögerung Gutachtertermin)
+## 2024-10-__ – Verfügung (Gutachterwechsel)
+- **Gericht:** LG Stuttgart, Az. [716 XVII 610/23]
 - **Beteiligte:** Gericht → Parteien
-- **Inhalt:** Mitteilung, dass ein Gutachtertermin nicht stattfinden kann (z. B. wegen organisatorischer oder gesundheitlicher Gründe).
-- **Zitat:** „[…]“
-- **Relevanz:** Dokumentiert, dass trotz langer Verfahrensdauer keine substantielle Beweiserhebung erfolgt.
-
----
-
-## 10.2024 – Verfügung (Gutachterwechsel)
-- **Beteiligte:** Gericht → Parteien
-- **Inhalt:** Der bisherige Gutachter legt sein Mandat nieder; Gericht kündigt Bestellung eines neuen Gutachters an.
-- **Zitat:** „[…]“
-- **Relevanz:** Weitere erhebliche Verzögerung. Kernfrage des Beweisverfahrens bleibt ungeklärt.
+- **Dokumentdaten:** Dokumentdatum 2024-10-__ | Eingang 2024-10-__
+- **Kernaussage:** Bisheriger Gutachter legt Mandat nieder; neuer Gutachter angekündigt.
+- **Disposition:** angeordnet
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** weitere erhebliche Verzögerung.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
