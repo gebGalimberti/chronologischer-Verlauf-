@@ -1,15 +1,23 @@
 # ⚖️ Sozialgericht München – Jahr 2023
 
-## 02.2023 – Beschluss (Ablehnung Antrag Krankenkasse)
-- **Beteiligte:** Sozialgericht München → Klägerin Silke Schürmann
-- **Inhalt:** Gericht weist Antrag auf Übernahme von Kosten (z. B. Behandlung, Hilfsmittel) zurück.
-- **Zitat:** „[…]“
-- **Relevanz:** Klägerin bleibt auf Kosten sitzen, verschärft finanzielle Belastung.
+## 2023-02-__ – Beschluss (Ablehnung Antrag Krankenkasse)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Gericht → Klägerin
+- **Dokumentdaten:** Dokumentdatum 2023-02-__ | Eingang 2023-02-__
+- **Kernaussage:** Antrag auf Kostenübernahme wird abgelehnt.
+- **Disposition:** abgelehnt
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Klägerin bleibt auf Kosten sitzen.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
 
 ---
 
-## 07.2023 – Verfügung (Stellungnahme Kasse)
-- **Beteiligte:** Sozialgericht München → Krankenkasse
-- **Inhalt:** Gericht fordert Stellungnahme der Krankenkasse an.
-- **Zitat:** „[…]“
-- **Relevanz:** Verfahren verzögert sich, Beweise / Gutachten bleiben aus.
+## 2023-07-__ – Verfügung (Stellungnahme Krankenkasse)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Gericht → Krankenkasse
+- **Dokumentdaten:** Dokumentdatum 2023-07-__ | Eingang 2023-07-__
+- **Kernaussage:** Krankenkasse zur Stellungnahme aufgefordert.
+- **Disposition:** angeordnet
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Verfahren verzögert sich.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
