@@ -1,7 +1,9 @@
-# 📑 Masterchronologie – Jahr 2025
+# Chronik 2025
 
-| Datum              | Absender/Empfänger        | Dokument / Titel | Kurzinhalt / Relevanz |
-|--------------------|---------------------------|------------------|-----------------------|
-| **01.2025**        | Silke Schürmann / Anwalt  | [Brief 001](schreiben/brief_001.pdf) | Schriftwechsel zu Verschleppung / Untätigkeitsbeschwerde. |
-| **Frühjahr 2025**  | Silke Schürmann / Anwalt  | [Beschwerde 002](schreiben/beschwerde_002.pdf) | Weitere Beschwerde wegen unterlassener Beweiserhebung. |
-| **Sommer 2025**    | interne Notizen           | [Notiz 001](notizen/notiz_001.pdf) | Eigene Notizen z_)
+| Datum       | Quelle/Absender            | Betreff/Kontext                                  | Beleg |
+|------------:|----------------------------|--------------------------------------------------|-------|
+| 2025-06-13  | LG Stuttgart               | Stand sBV / Beschluss                            | [PDF](../10003968086_1_Anforderung%20StN.pdf) |
+| 2025-06-07  | RA Freihoefer              | Vertretungsanzeige / Aufforderung                | [PDF](../10002545284_1_Vertretungsanzeige%20und%20Aufforderungsschreiben.pdf) |
+| 2025-05-…   | …                          | …                                                | [PDF](../DATEINAME.pdf) |
+
+> Hinweis: Da die PDFs im **Root** liegen, lautet der Linkpfad von `2025/…` aus: `../Dateiname.pdf`.
