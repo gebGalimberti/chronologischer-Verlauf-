@@ -1,7 +1,21 @@
-# Chronik 2023
+# 📑 Masterchronologie – Jahr 2023
 
-| Datum       | Quelle/Absender        | Betreff/Kontext                                | Beleg |
-|------------:|------------------------|------------------------------------------------|-------|
-| 2023-03-15  | RA Freihoefer          | Schreiben zur Deckungszusage                   | [PDF](../10002282941_2_Deckungszusage%20außergerichtlich%20und%20für%20selbständiges%20Beweisverfahren.pdf) |
-| 2023-04-10  | LG Stuttgart           | Mitteilung wg. FV für Beklagte                 | [PDF](../10002475068_1_Mitt.%20wg.%20FV%20für%20Bekl..pdf) |
-| 2023-05-22  | Beklagtenseite         | FVA (Fristverlängerungsantrag) Beklagte        | [PDF](../10002475062_1_FVA%20Bekl..pdf) |
+## 🦷 Medizinische / Private Vorgänge 2023
+
+| Datum       | Absender/Empfänger        | Dokument / Titel  | Kurzinhalt / Relevanz                                                                 | Beleg |
+|-------------|---------------------------|-------------------|---------------------------------------------------------------------------------------|-------|
+| 03.2023     | Praxis Nessler            | Rechnung 003      | Abrechnung über Leistungen, die so nicht erbracht wurden (prüfungsbedürftig).         | [PDF](../belege/rechnung_003.pdf) |
+| 04.2023     | Silke Schürmann / Praxis Nessler | Beschwerde 003   | Schriftliche Beschwerde über Instabilität, Hinweis auf Funktionsanalyse erneut ignoriert. | [PDF](../schreiben/beschwerde_003.pdf) |
+| 06.2023     | Intern / Aufzeichnungen   | Notiz 2023-06     | Dokumentation der anhaltenden Schmerzen, Überweisung an Fachärzte.                     | [PDF](../notizen/notiz_2023_06.pdf) |
+
+---
+
+## ⚖️ Gerichtliche Vorgänge 2023
+
+| Datum       | Gericht / Kammer           | Aktenzeichen     | Beteiligte / Adressaten                                                                 | Dokument / Titel                  | Kernaussage / Begründung                                                                 | Zitat (falls vorhanden) | Relevanz / Wirkung                                                                                  | Beleg |
+|-------------|---------------------------|------------------|-----------------------------------------------------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------|-------|
+| **03.03.2023** | LG Stuttgart, Zivilkammer XX | 716 XVII 610/23  | Klägerin: Silke Schürmann; Beklagter: Dr. Thomas Nessler; Anwalt Klägerin: RA Freihoefer; Anwalt Beklagter: (Name); Gericht | **Beschluss: Einleitung Beweisverfahren** | Gericht bestätigt Durchführung eines selbstständigen Beweisverfahrens; Gutachten wird für erforderlich gehalten. | „Zur Klärung der behaupteten Behandlungsfehler wird ein Sachverständigengutachten eingeholt.“ | Fundament für das gesamte Verfahren; Grundlage für Bestellung eines Gutachters; zwingt beide Seiten zur Vorlage von Unterlagen. | [PDF](../schreiben/beschluss_2023_001.pdf) |
+| **10.04.2023** | LG Stuttgart, Zivilkammer XX | 716 XVII 610/23  | Klägerin: Silke Schürmann; Beklagter: Dr. Thomas Nessler; Anwalt Klägerin: RA Freihoefer; Anwalt Beklagter: (Name) | **Mitteilung Fristverlängerung Beklagte** | Gericht teilt Antrag/Verlängerung für Beklagte mit. Verfahren verzögert sich dadurch deutlich. | „[…]“ | Dokumentiert erste erkennbare Verzögerung; Nachteil für Klägerin, da gesundheitliche Situation ungelöst bleibt. | [PDF](../10002475068_1_Mitt.%20wg.%20FV%20für%20Bekl..pdf) |
+| **22.05.2023** | LG Stuttgart, Zivilkammer XX | 716 XVII 610/23  | Klägerin: Silke Schürmann; Beklagter: Dr. Thomas Nessler; Anwalt Klägerin: RA Freihoefer; Anwalt Beklagter: (Name) | **FVA Beklagte (Fristverlängerungsantrag)** | Beklagtenseite beantragt weitere Fristverlängerung zur Stellungnahme. | „[…]“ | Erneute Verfahrensverzögerung; Kostenfolgen für Klägerin; unterstreicht strukturelle Blockade im Verfahren. | [PDF](../10002475062_1_FVA%20Bekl..pdf) |
+| **Sommer 2023** | LG Stuttgart, Zivilkammer XX | 716 XVII 610/23  | Gericht, Klägerin, Beklagter, RA Freihoefer                                             | **Zwischenmitteilung Gericht** | Gericht teilt mit, dass Gutachterbestellung geprüft wird. | „[…]“ | Verzögerung der Gutachtenbestellung trotz klarer Grundlage; Belastung Klägerin steigt. | (Beleg noch einfügen) |
+| **Herbst 2023** | LG Stuttgart, Zivilkammer XX | 716 XVII 610/23  | Gericht, Klägerin, Beklagter, beide Anwaltskanzleien                                    | **Weitere Verfügung / Anforderung** | Gericht fordert ergänzende Stellungnahmen / Unterlagen. | „[…]“ | Verfahren kommt nicht voran, zusätzliche Pflichten für Klägerin trotz gesundheitlicher Einschränkungen. | (Beleg noch einfügen) |
