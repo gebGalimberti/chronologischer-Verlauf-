@@ -41,26 +41,6 @@
 |-------:|--------------|------------------|------------------|-------------|---------|-------|----------|-------|-------|
 | 07.2022| Zahnärztlich | Praxis Nessler   | Erstbefund       | Falsche Datierung (Sept. statt Juli) | – | „…“ | Ansatzpunkt Falschdokumentation | Beginn | [PDF](../belege/erstvorstellung.pdf) |
 
-### B) Q&A-Extraktion
-| Datum  | Frage | Antwort (Wortlaut) | Einordnung | To-Do | Beleg |
-|-------:|------|---------------------|-----------|------|------|
-| 07–09.2022 | „Warum Instabilität?“ | „Schiene reicht.“ | unzureichend | Funktionsanalyse fordern | [PDF](../belege/schiene_herbst2022.pdf) |
-
-### C) Widerspruchs-Matrix
-| Thema                        | Quelle A                  | Quelle B                  | Konflikt? | Bewertung | Folge |
-|-----------------------------|---------------------------|---------------------------|-----------|----------|-------|
-| Ersttermin Sept. vs. Juli   | Praxisunterlagen (09/2022)| Eigene Nachweise (22.07.) | ja        | Nachweise Klägerin plausibel | Gericht/RA vorlegen |
-
-### D) Symptom-/Interventions-Mapping
-| Zeitraum | Symptom(e) | Intervention(en) | Wirkung | Beleg |
-|---------:|------------|------------------|--------|------|
-| Q3–Q4/22 | Schmerzen  | Schiene          | keine ursächliche Besserung | [PDF](../notizen/notiz_ende2022.pdf) |
-
-### E) Anlagen-Index
-| Ref | Beschreibung | Pfad |
-|-----|--------------|-----|
-| A1  | Erstvorstellung | `../belege/erstvorstellung.pdf` |
-
 ---
 
 ## ✉️ Schriftverkehr mit Anwälten 2022
@@ -68,13 +48,3 @@
 | Datum/Uhrzeit | Von → An | Betreff | Kernaussage | Status | Frist | Beleg |
 |---------------|----------|---------|-------------|--------|-------|-------|
 | 12.2022       | Gericht → Parteien | Eingang sBV | Beginn des Verfahrens | erledigt | – | [PDF](../schreiben/beschluss_2022_001.pdf) |
-
-### B) Q&A-Extraktion
-| Datum | Deine Frage | Antwort (Wortlaut) | Einordnung | Aktion | Beleg |
-|------:|-------------|--------------------|-----------|--------|------|
-| 12.2022 | „Nächste Schritte?“ | „Beschluss abwarten.“ | knapp | To-Do-Liste erstellen | [PDF](../schreiben/beschluss_2022_001.pdf) |
-
-### C) Wiederholungen & Widersprüche
-| Aussage/Thema | Wiederholt von | Widerspruch von | Bewertung | Folge |
-|---------------|----------------|-----------------|----------|-------|
-| „Schiene genügt“ | Praxis | Befunde später | Konflikt | Funktionsanalyse fordern |
