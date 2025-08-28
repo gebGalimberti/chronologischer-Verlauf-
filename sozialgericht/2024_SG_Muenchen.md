@@ -1,15 +1,23 @@
 # ⚖️ Sozialgericht München – Jahr 2024
 
-## 03.2024 – Beschluss (MDK-Gutachten angeordnet)
-- **Beteiligte:** Sozialgericht München → MDK
-- **Inhalt:** Gericht ordnet an, dass der MDK ein medizinisches Gutachten erstellt.
-- **Zitat:** „[…]“
-- **Relevanz:** Wichtig für Kosten- und Rentenfragen, aber Verzögerung bis zur Umsetzung.
+## 2024-03-__ – Beschluss (MDK-Gutachten angeordnet)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Gericht → MDK
+- **Dokumentdaten:** Dokumentdatum 2024-03-__ | Eingang 2024-03-__
+- **Kernaussage:** MDK soll Gutachten erstellen.
+- **Disposition:** angeordnet
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** entscheidend für Kosten- und Rentenfragen.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
 
 ---
 
-## 09.2024 – Verfügung (Ablehnung Eilantrag)
-- **Beteiligte:** Sozialgericht München → Klägerin Silke Schürmann
-- **Inhalt:** Eilantrag der Klägerin wird abgelehnt.
-- **Zitat:** „[…]“
-- **Relevanz:** Klägerin erhält keine schnelle Hilfe, gesundheitliche und finanzielle Lage verschärft sich.
+## 2024-09-__ – Beschluss (Eilantrag abgelehnt)
+- **Gericht:** Sozialgericht München
+- **Beteiligte:** Gericht → Klägerin
+- **Dokumentdaten:** Dokumentdatum 2024-09-__ | Eingang 2024-09-__
+- **Kernaussage:** Eilantrag wird abgelehnt.
+- **Disposition:** abgelehnt
+- **Wortlaut (Zitat):** „[…]“
+- **Relevanz:** Klägerin bleibt ohne schnelle Hilfe.
+- **Quelle:** [DEIN_DATEINAME.pdf](../DEIN_DATEINAME.pdf)
