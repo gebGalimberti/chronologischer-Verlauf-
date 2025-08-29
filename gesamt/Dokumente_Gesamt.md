@@ -11,6 +11,8 @@
 | 2023-06-10  | Silke → Kanzlei Freihoefer | Hilfegesuch Mandat    | E-Mail            | Bitte um rechtliche Unterstützung / Gutachterbeantragung | Antwort: Fristverlängerung beantragt | [PDF](../2023-06-10_mail_freihoefer.pdf) |
 | 2023-09-15  | SG München → Parteien   | Hinweisbeschluss        | Gerichtsschreiben | Zweifel an KK-Argumentation, Frist überschritten | – | [PDF](../2023-09-15_sg-hinweis.pdf) |
 | 2024-02-15  | Silke → Süddeutsche Zeitung | Presseanfrage Zahnarztfall | E-Mail | Bitte um Berichterstattung | Antwort: „Wir prüfen“ | [PDF](../2024-02-15_sz-anfrage.pdf) |
+| 2024-05-14 | Radiologie XY → Silke | CT Abdomen/Becken (Low Dose, ohne KM) | Befund | „Kein Fremdkörper; mäßige Vasosklerose; freie Flüssigkeit (DD zyklusassoziiert); Anterolisthesis LWK5/SWK1 6 mm (Spondylolyse links); prominente Schmorl-Hernie LWK3.“ | Voruntersuchung MRT 2024-04-04 | [PDF](../CT Radiologie slow doese ohne KM (2).pdf) |
+
 | 2024-10-05  | Klinik AB → Silke       | Psychiatr. Bericht      | Befund / Bericht  | Belastungsreaktion, Schlafstörungen | – | [PDF](../2024-10-05_psychiatrie-bericht.pdf) |
 | 2025-01-17  | AG München → Silke      | Bestellung Betreuungsanwalt | Gericht | RA Westhagen als Betreuer eingesetzt | Folge: Untätigkeit | [PDF](../2025-01-17_ag-betreuungsanwalt.pdf) |
 | 2025-05-14  | Radiologie XY → Silke   | MRT Kiefer              | Befund            | Entzündungen, Folgeschäden | – | [PDF](../2025-05-14_mrt-kiefer.pdf) |
