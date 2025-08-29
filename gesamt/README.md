@@ -69,3 +69,22 @@ Der Ordner `gesamt` enthält die wichtigsten Übersichtsdateien zum gesamten med
 ---
 
 *Letzte Aktualisierung: <!-- hier Datum eintragen -->*
+----
+## Abschnitt: Auswertung Outlook-Zusammenfassungen & Schriftverkehr
+
+| Datum       | Absender / Empfänger         | Betreff / Thema                      | Art (E-Mail, Outlook, Vermerk) | Beteiligte Akteure (z.B. Kanzlei, Gericht, Arzt) | Kurzinhalt / Aussage         | Bezug zu Akte / Schriftsatz | Verlinkung / Speicherort      | Relevanz / Status         |
+|-------------|-----------------------------|--------------------------------------|-------------------------------|-----------------------------------------------|------------------------------|-----------------------------|-------------------------------|---------------------------|
+| 2024-08-27  | RA Müller → Gericht München | Fristverlängerung beantragt          | E-Mail                        | RA Müller, LG München                        | Antrag auf Frist, Begründung  | Schriftsatz LG 08/24        | [E-Mail (PDF)](../dokumente/schriftverkehr/2024-08-27_RA-Mueller-Frist.pdf) | in Akte, Antwort offen    |
+| 2024-08-29  | Patient → KFO Dr. XY        | Bitte um Terminbestätigung           | Outlook                       | Patient, KFO Dr. XY                           | Nachfrage zum Kontrolltermin | Patientenakte 2024          | [Outlook-Export](../dokumente/schriftverkehr/2024-08-29_Termin_KFO.msg)    | Termin offen             |
+| 2024-08-15  | Gericht → RA Müller         | Ladung zur mündlichen Verhandlung    | E-Mail                        | LG München, RA Müller                         | Anberaumung Verhandlungstermin| Gerichtsakte LG             | [Ladung](../dokumente/gericht/2024-08-15_Ladung.pdf)                      | Termin notiert           |
+
+**Hinweise zur Pflege:**
+- Für jede E-Mail/Korrespondenz bitte alle Spalten ausfüllen, insbesondere Betreff, Absender/Empfänger, Art (E-Mail/Outlook/Vermerk), Akteure, Kurzinhalt und den Bezug zu relevanten Akten oder Schriftsätzen.
+- Nach Möglichkeit immer eine Verlinkung zum Originaldokument (z. B. PDF, MSG, Outlook-Export) angeben.
+- Den Status (z.B. "Antwort offen", "erledigt", "in Akte übernommen") aktuell halten.
+- Bei wichtigen rechtlichen/verfahrensbezogenen E-Mails zusätzlich in der Timeline_Gesamt.md referenzieren.
+
+---
+
+**Du kannst diesen Abschnitt beliebig erweitern und regelmäßig ergänzen.  
+Soll ich dir bei der Übernahme konkreter E-Mails oder beim Ausfüllen der Tabelle helfen?** Sag einfach Bescheid!
