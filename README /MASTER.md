@@ -69,3 +69,7 @@ Alle **gerichtlichen Mitteilungen / Verfügungen / Beschlüsse** werden mit E-Ma
 - Fehlende Zitate nachtragen  
 - Tabellen vervollständigen  
 - Jahr-zu-Jahr-Zusammenfassung ins Gesamtbild einarbeiten
+-----
+## Gesamtdokument
+
+[Hier klicken, um die vollständige PDF (2500 Seiten) in Dropbox zu öffnen](https://www.dropbox.com/s/DEINLINK/Grosses_Dokument.pdf?dl=0)
